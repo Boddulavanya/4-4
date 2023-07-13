@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\ConsoleApp Rect arrays\ConsoleApp Rect arrays\bin\Debug\ConsoleApp Rect arrays.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\ConsoleApp Rect arrays\ConsoleApp Rect arrays\bin\Debug\ConsoleApp Rect arrays.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\ConsoleApp Rect arrays\ConsoleApp Rect arrays\bin\Debug\ConsoleApp Rect arrays.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\ConsoleApp Rect arrays\ConsoleApp Rect arrays\obj\Debug\ConsoleApp Rect arrays.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\ConsoleApp Rect arrays\ConsoleApp Rect arrays\obj\Debug\ConsoleApp Rect arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\ConsoleApp Rect arrays\ConsoleApp Rect arrays\obj\Debug\ConsoleApp Rect arrays.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\ConsoleApp Rect arrays\ConsoleApp Rect arrays\obj\Debug\ConsoleApp Rect arrays.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\ConsoleApp Rect arrays\ConsoleApp Rect arrays\obj\Debug\ConsoleApp Rect arrays.pdb
